@@ -1,0 +1,23 @@
+section h1{
+    font-size: 80px;
+    font-weight: 700;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+section p{
+    font-size: 35px;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+section button{
+    width: 15rem;
+    height: 5rem;
+    color: white;
+    background-color: blue;
+    font-size: 13.333px;
+}
+
+section button:hover{
+    background-color: green;
+}
